@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+body{
+    margin-bottom: 337px;
+    background:linear-gradient(black, white);
+    border: solid 3px #CDA551;
+    border-style: outset;
+}
+
+p{
+    margin-bottom: 33px;
+    font-size: 18px;
+    font: ;
+}
+
