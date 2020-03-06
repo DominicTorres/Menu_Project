@@ -1,15 +1,23 @@
 @charset "utf-8";
 
-body{
+body.bot{
     margin-bottom: 337px;
-    background:linear-gradient(black, white);
+    background:linear-gradient(darkred, black);
     border: solid 3px #CDA551;
     border-style: outset;
+    scroll-margin: auto;
 }
 
 p{
     margin-bottom: 33px;
     font-size: 18px;
-    font: ;
 }
+
+body.dot > img{
+    width: 1320px;
+    height: 110px;
+    image-orientation: inherit;
+}
+
+
 
